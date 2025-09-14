@@ -1,0 +1,11 @@
+README.md
+setup.py
+taskrunner/__init__.py
+taskrunner/cli.py
+taskrunner/manager.py
+taskrunner.egg-info/PKG-INFO
+taskrunner.egg-info/SOURCES.txt
+taskrunner.egg-info/dependency_links.txt
+taskrunner.egg-info/entry_points.txt
+taskrunner.egg-info/requires.txt
+taskrunner.egg-info/top_level.txt
