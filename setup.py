@@ -5,7 +5,7 @@ setup(
     version="1.0.0",
     packages=find_packages(),
     # install_requires=["click"],   # or argparse, typer, etc.
-    install_requires=["argparse"],   # or argparse, typer, etc.
+    install_requires=["argparse", "filelock"],
     entry_points={
         "console_scripts": [
             "taskrunner=taskrunner.cli:main",   # <- CLI hook
